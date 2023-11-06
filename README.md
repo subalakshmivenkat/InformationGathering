@@ -61,18 +61,15 @@ httprint -h 13.33.146.98 -s /usr/share/httprint/signatures.txt -P0 |more
 
 ## TRACEOUT :
 ## TCP TRACEOUT :
-
- sudo traceroute -T www.freshworks.com
+sudo traceroute -T www.freshworks.com
  ![265587370-da148908-aac3-44fa-9180-e4545e7e63c6](https://github.com/Bakkiyalakshmi29/InformationGathering/assets/119406233/ae77c954-bcb1-4763-a65b-eb53d1a1a5a4)
 
  ## UDP TRACEOUT :
-
- sudo traceroute -U www.freshworks.com
+sudo traceroute -U www.freshworks.com
 ![265587532-f0c8d421-8cac-45ff-9ec3-a2a23465b88d](https://github.com/Bakkiyalakshmi29/InformationGathering/assets/119406233/162ec958-6d7b-43f4-9b9c-a4c030e0059c)
 
 ## ICMP TRACEOUT :
-
- sudo traceroute  www.freshworks.com
+sudo traceroute www.freshworks.com
  ![265587791-28665b8c-4679-497a-9a55-3167c3fada32](https://github.com/Bakkiyalakshmi29/InformationGathering/assets/119406233/a6db44a2-ff9d-47c3-806c-ae5265085c81)
 
 
